@@ -13,7 +13,7 @@ This website provides information on a developer like
 * CSS
 
 ## Website Link
-https://for-timi.github.io/
+https://for-timi.github.io/My-Portfolio/
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/104241247/179342881-798de98a-49b4-4c9c-8386-66976d56c0ed.png)
